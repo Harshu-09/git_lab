@@ -1,1 +1,1 @@
-Collaboration notes - edited from original repo
+"CLONE VERSION - this is the clone's edit" 
